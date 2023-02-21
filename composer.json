@@ -1,0 +1,17 @@
+{
+    "name": "ebl/logs",
+    "description": "Use this package for removing logs using date and/or using file name",
+    "autoload": {
+        "psr-4": {
+            "Ebl\\Logs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hiren Viradiya",
+            "email": "hiren@ebytelogic.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
